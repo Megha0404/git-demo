@@ -1,2 +1,4 @@
-Hello this a demo file for adding the file to GitHub.
+This a demo file for adding the file to GitHub.
 Now we are doing the task for git pull.
+
+Now gui is introduced.
